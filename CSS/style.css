@@ -296,9 +296,9 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/pattern1.png);
+    background-image: url(../img/manhattan-brooklyn-bridge.jpg);
     background-size: cover;
-    /* background-blend-mode: multiply; */
+    background-blend-mode: overlay;
     color: var(--clr-light);
     text-align: center;
 }
